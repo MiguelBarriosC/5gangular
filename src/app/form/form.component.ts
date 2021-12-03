@@ -1,8 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import {
-  FormBuilder,
-  Validators,
-} from '@angular/forms';
+import { FormBuilder, Validators } from '@angular/forms';
 
 @Component({
   selector: 'app-form',
